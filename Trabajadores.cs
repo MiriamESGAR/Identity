@@ -1,6 +1,12 @@
-trabajador 1
-trabajador 2
-trabajador 3
-trabajador 3
-trabajador 4
-trabajador 5
+using System;
+namespace Trabajadores
+{
+    public class DatosPersonales
+    {
+        public static void Main()
+        {
+            string Nombre, Apellidos, FechaNac, Email, Tel;
+            int Sueldo;
+        }
+    }
+}
